@@ -67,7 +67,3 @@ The error log is named `fix_fb2_metadata_errors.log` and is created beside the s
 - `0`: processing completed without file errors.
 - `1`: one or more files produced errors.
 - `2`: the supplied library directory does not exist or is not a directory.
-
-## License
-
-No license has been specified. Add a `LICENSE` file before publishing if you want to grant others explicit permission to use, modify, and redistribute this project.
